@@ -1,0 +1,25 @@
+* {
+    margin: o;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar {
+    border-bottom: solid 3px rgba(221,100,97,255);
+}
+
+.carousel-inner img {
+    height: 70vh;
+}
+
+/* .container img {
+    height: 40vh;
+} */
+
+.img-tortas {
+    height: 40vh;
+}
+
+.borde-tortas {
+    border: solid 2px rgba(221,100,97,255);;
+}
